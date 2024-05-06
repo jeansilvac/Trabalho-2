@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(white, green);
+  padding: 10%;
+}
+.cabecalho {
+    align-items: center;
+    text-align: center;
+    color: white;
+}
